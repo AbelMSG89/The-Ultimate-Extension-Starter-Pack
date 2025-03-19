@@ -1,0 +1,30 @@
+{
+  "name": "the-ultimate-extension-starter-pack",
+  "displayName": "The Ultimate Extension Starter Pack",
+  "description": "",
+  "icon": "images/icon.png",
+  "version": "0.0.1",
+  "publisher": "AbelMSG89",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "aaron-bond.better-comments",
+    "kisstkondoros.vscode-gutter-preview",
+    "alefragnani.Bookmarks",
+    "adpyke.codesnap",
+    "codezombiech.gitignore",
+    "donjayamanne.githistory",
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
