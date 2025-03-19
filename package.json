@@ -2,7 +2,6 @@
   "name": "the-ultimate-extension-starter-pack",
   "displayName": "The Ultimate Extension Starter Pack",
   "description": "An essential collection of extensions to enhance your VS Code development experience. Includes tools for project management, Git version control, image previews, bookmarks, code capture, and improved Markdown support.",
-  "icon": "images/icon.png",
   "version": "0.0.1",
   "publisher": "AbelMSG89",
   "engines": {
